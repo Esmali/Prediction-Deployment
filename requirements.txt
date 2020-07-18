@@ -1,0 +1,5 @@
+numpy
+pandas
+flask==1.0.3
+jsonpickle==1.2
+joblib
